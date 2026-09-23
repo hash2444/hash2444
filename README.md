@@ -1,9 +1,17 @@
-## Tools and Minecraft add-ons
+<div align="center">
 
-Everything here is finished and installable - each repository holds the build itself, a README and a setup guide, nothing else to figure out.
+# dev:#2444
 
+**Windows tools and Minecraft Bedrock add-ons**
 
-### Windows tools
+15 finished projects. Every repository holds the build itself, a README
+and a setup guide - nothing to compile, nothing to figure out.
+
+</div>
+
+---
+
+## Windows tools
 
 Small programs that do one job, each a single .exe.
 
@@ -12,7 +20,7 @@ Small programs that do one job, each a single .exe.
 - **[lautmixer](https://github.com/hash2444/lautmixer)** - Windows volume mixer with a real 300 % boost per app (process loopback, no driver).
 - **[what-beats-stone](https://github.com/hash2444/what-beats-stone)** *(alpha)* - Offline clone of the 'what beats rock' game with a local Ollama model as referee.
 
-### Minecraft Bedrock add-ons
+## Minecraft Bedrock add-ons
 
 Installable .mcaddon packs. Import and switch on in the world settings.
 
@@ -27,12 +35,15 @@ Installable .mcaddon packs. Import and switch on in the world settings.
 - **[tp-tool](https://github.com/hash2444/tp-tool)** - An operator-managed teleport tool with a whitelist and a countdown.
 - **[upgrader](https://github.com/hash2444/upgrader)** - A CS2-style item upgrader with a chance wheel, works without cheats.
 
-### Browser
+## Browser
 
 - **[page-search](https://github.com/hash2444/page-search)** - Highlights every match of a word on the page and jumps between them.
 
 ---
 
-Every download is a normal unsigned build, so Windows SmartScreen warns once: **More info -> Run anyway**.
+<div align="center">
 
-**dev:#2444**
+Downloads are unsigned builds, so Windows SmartScreen warns once:
+**More info -> Run anyway**
+
+</div>
