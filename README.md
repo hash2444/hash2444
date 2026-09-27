@@ -4,7 +4,7 @@
 
 **Windows tools and Minecraft Bedrock add-ons**
 
-15 finished projects. Every repository holds the build itself, a README
+16 finished projects. Every repository holds the build itself, a README
 and a setup guide - nothing to compile, nothing to figure out.
 
 </div>
@@ -28,6 +28,7 @@ Installable .mcaddon packs. Import and switch on in the world settings.
 - **[anti-bundle-crafter](https://github.com/hash2444/anti-bundle-crafter)** - Lock any item ID - it vanishes from inventories, containers and drops, controlled from an in-game menu.
 - **[cases-simulator](https://github.com/hash2444/cases-simulator)** - Case opening with keys and three case tiers, rolling vanilla loot pools.
 - **[euro-bills](https://github.com/hash2444/euro-bills)** *(alpha)* - Physical euro-style bills as money with serial numbers, an anti-dupe registry and bank NPCs.
+- **[holy-mod](https://github.com/hash2444/holy-mod)** - 23 open-source add-ons + 1,100+ new items, blocks and creatures merged into ONE mod - gems, plushies, pets, food, decor, fashion, flying mounts, quests and world events.
 - **[horror-addon](https://github.com/hash2444/horror-addon)** - A Voice in your head starts as a friend and turns evil over the in-game days.
 - **[inf-storage](https://github.com/hash2444/inf-storage)** - A personal, infinite Void Chest opened with a key item, locked against other players.
 - **[neon-redstone](https://github.com/hash2444/neon-redstone)** - Texture pack for redstoners: buttons, plates, chests, pistons and more in neon green.
