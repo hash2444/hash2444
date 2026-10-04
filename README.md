@@ -4,7 +4,7 @@
 
 **Windows tools and Minecraft Bedrock add-ons**
 
-18 finished projects. Every repository holds the build itself, a README
+17 finished projects. Every repository holds the build itself, a README
 and a setup guide - nothing to compile, nothing to figure out.
 
 </div>
@@ -40,10 +40,6 @@ Installable .mcaddon packs. Import and switch on in the world settings.
 ## Browser
 
 - **[page-search](https://github.com/hash2444/page-search)** - Highlights every match of a word on the page and jumps between them.
-
-## More
-
-- **[CS2-Esp-Aimbot-External-Imgui](https://github.com/hash2444/CS2-Esp-Aimbot-External-Imgui)** - CS2(Counter Strike 2) External ESP+Aimbot cheat
 
 ---
 
