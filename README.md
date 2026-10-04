@@ -4,7 +4,7 @@
 
 **Windows tools and Minecraft Bedrock add-ons**
 
-16 finished projects. Every repository holds the build itself, a README
+18 finished projects. Every repository holds the build itself, a README
 and a setup guide - nothing to compile, nothing to figure out.
 
 </div>
@@ -27,6 +27,7 @@ Installable .mcaddon packs. Import and switch on in the world settings.
 - **[admin-items](https://github.com/hash2444/admin-items)** - Three admin wands (explosion, lightning, meteor) with a per-player permission menu.
 - **[anti-bundle-crafter](https://github.com/hash2444/anti-bundle-crafter)** - Lock any item ID - it vanishes from inventories, containers and drops, controlled from an in-game menu.
 - **[cases-simulator](https://github.com/hash2444/cases-simulator)** - Case opening with keys and three case tiers, rolling vanilla loot pools.
+- **[civilizations](https://github.com/hash2444/civilizations)** - Settlements of five eras that plan themselves on the real terrain, with citizens who do real jobs.
 - **[euro-bills](https://github.com/hash2444/euro-bills)** *(alpha)* - Physical euro-style bills as money with serial numbers, an anti-dupe registry and bank NPCs.
 - **[holy-mod](https://github.com/hash2444/holy-mod)** - 23 open-source add-ons + 1,100+ new items, blocks and creatures merged into ONE mod - gems, plushies, pets, food, decor, fashion, flying mounts, quests and world events.
 - **[horror-addon](https://github.com/hash2444/horror-addon)** - A Voice in your head starts as a friend and turns evil over the in-game days.
@@ -39,6 +40,10 @@ Installable .mcaddon packs. Import and switch on in the world settings.
 ## Browser
 
 - **[page-search](https://github.com/hash2444/page-search)** - Highlights every match of a word on the page and jumps between them.
+
+## More
+
+- **[CS2-Esp-Aimbot-External-Imgui](https://github.com/hash2444/CS2-Esp-Aimbot-External-Imgui)** - CS2(Counter Strike 2) External ESP+Aimbot cheat
 
 ---
 
